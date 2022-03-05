@@ -1,2 +1,2 @@
 # DistributedTravels
-Projekt RSWW
+Projekt z przedmiotu Rozproszone Systemy Wysokiej Wydajności
